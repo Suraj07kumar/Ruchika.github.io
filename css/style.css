@@ -1,0 +1,7 @@
+html{
+    scroll-behavior: smooth;
+}
+
+.home,img{
+    box-shadow: 2px 4px 16px 1px rgba(0, 0, 0, 0.688);
+}
